@@ -389,8 +389,9 @@ header .logo {
     transition: background .2s;
 }
 header .logo img {
-    max-height: 66px;
-    margin: 18px 0 10px;
+    max-height: 95px;
+    width: 53px;
+    margin: 0px 0 0px;
 }
 header .nav-wrapper {
     float: right;
@@ -415,8 +416,9 @@ header.sticky {
     box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.16);
 }
 header.sticky .logo img {
-    height: 40px;
-    margin-top: 10px;
+    height: 66px;
+    width: 35px;
+    margin-top: 0px;
 }
 header.sticky .sf-menu .menu-description {
     display: none;
